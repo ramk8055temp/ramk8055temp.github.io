@@ -1,0 +1,220 @@
+Website,Category,Link name,Notes/Usage,Freq,URL
+MarketMojo,Stock analysis,Stock Fundamental analysis with Ratings,"DOTs: Quality, Valuation, Financial Trend and Technical",Any,https://www.marketsmojo.com/stocks-analysis/asian-paints-244442-0
+Trendlyne,Stock analysis,Stock Fundamental analysis with SWAT,SWAT Analysis,Any,https://trendlyne.com/equity/117/ASIANPAINT/asian-paints-ltd/
+Tijori,Stock analysis,Stock Fundamental analysis,Normal analysis,Any,https://www.tijorifinance.com/?r=n
+ValueResearch,Stock analysis,Stock Fundamental analysis with Rating Starts,Valuate the stocks here,Any,https://www.valueresearchonline.com/stocks/44811/tata-consultancy-services-ltd/
+MoneyWorks4me,Stock analysis,Stock Fundamental analysis with Rating Starts,Valuate the stocks here,Any,https://www.moneyworks4me.com/indianstocks/large-cap/it-ites/it-software/infosys/company-info
+Screener.in,Stock analysis,Complete Fundamental analysis end to end,Use this as primary,Any,https://www.screener.in/
+OneIndia,Tamil blogs,Sharemarket and Personal finance news,Some of them are not related to Stocks and distraction us,Any,https://tamil.goodreturns.in/topic/share-market
+ZeeNews,Tamil blogs,Sharemarket and Personal finance,Not upto date (slow) news about sharemarket,Any,https://zeenews.india.com/tamil/topics/stock-market
+ET,Tamil blogs,Home page,Some of them are not related to Stocks and distraction us,Any,https://tamil.economictimes.com/
+ET,Tamil blogs,Market Page,Some of them are not related to Stocks and distraction us,Any,https://tamil.economictimes.com/markets
+Vikatan,Tamil blogs,Sharemarket News home,News in tamil,Any,https://www.vikatan.com/personal-finance/share-market
+Vikatan,Tamil blogs,Sharemaket articles highlights,Article in tamil,Any,https://www.vikatan.com/topics/stock-market
+HindustanTamil,Tamil blogs,Sharemarket update highlights,Stocks tips,Any,https://tamil.hindustantimes.com/amp/topic/stock-market
+TheHindu,Tamil blogs,Stocks news,Stocks highlight,Any,https://www.thehindubusinessline.com/tamil/tamil-share-market/
+BBC,Tamil blogs,Sharemarket news,News about sharemarket including world,Any,https://www.bbc.com/tamil/topics/c2dwqdw4zw8t
+PudhiyaThalaimurai,Tamil blogs,News home,Some of them are not related to Stocks and distraction us,Any,https://www.puthiyathalaimurai.com/business
+ZerodhaPulse,News,All in one News with highlights,Use our tampermonkey script,Daily,https://pulse.zerodha.com
+ET,News,News Home,Home page of the news (Not only pure news),Any,http://economictimes.indiatimes.com/markets
+LiveMint ,News,News Home,Home page of the news (Not only pure news),Any,http://www.livemint.com
+Bloomberg,News,News Home,Home page of the news (Not only pure news),Any,https://www.bloombergquint.com
+BusinessStandard,News,News Home,Home page of the news (Not only pure news),Any,https://www.business-standard.com/
+TheHindu,News,News Home,Home page of the news (Not only pure news),Any,https://www.thehindubusinessline.com/
+MoneyControl,News,News Home,Home page of the news (Not only pure news),Any,https://www.moneycontrol.com/
+FinancialExpress,News,News Home,Home page of the news (Not only pure news),Any,https://www.financialexpress.com/
+5Paisa,News,Stocks and Market selective (blogs),2 or 3 news related blog per day,Daily, https://www.5paisa.com/news/indian-market/1
+5Paisa,News,Corporate action news,News only related to corporate action,Any,https://www.5paisa.com/news/corporate-actions/1
+5Paisa,Mutual funds,Mutual fund - News,News related to the Mutual funds,Any,https://www.5paisa.com/news/mutual-funds/1
+ET,News,News with category,All news grouped by categories,Any,https://economictimes.indiatimes.com/
+LiveMint ,News,News Home,Home page of the news (Not only pure news),Any,https://www.livemint.com/
+ET,Mutual funds,Mutual fund - News & Dashboards,News related to the Mutual funds,Any,https://economictimes.indiatimes.com/mutual-funds
+TickerTape,Results and Event,News and events,stock wise with perfromance and its nearby events,Any,https://www.tickertape.in/news-events
+GoogleDrive,Learning,Libray for all ebooks - gdrive,Download all ebooks here (PDF format),Always,https://drive.google.com/drive/u/0/folders/1eIpH0RyJCGCQvhHZ8miP-DaGwU9bWqLb
+TickerTape,Learning,Online ePDF,"Covered specific things, not everything",Always,https://www.tickertape.in/knowledge-base/
+Investopedia,Learning,Dictionary of Stock market,All the stockmarket related word with content,Always,https://www.investopedia.com/financial-term-dictionary-4769738
+Varsity,Learning,Complete Stock market - Course,Stock market beginner to advance free materials to learn,Always,https://zerodha.com/varsity/
+5Paisa,Learning,Complete Stock market - Course,Stock market beginner to advance free materials to learn,Always,https://www.5paisa.com/finschool/
+Fyers,Learning,Complete Stock market - Course,Stock market beginner to advance free materials to learn,Always,https://fyers.in/school-of-stocks/
+DotNet,Learning,Best website to learn blindspots,This auther covers most of the useful things in tricky way,Always,https://dotnettutorials.net/lesson/option-chain-analysis/
+Sensibull,Learning,Complete Option learning course,Option related complete knowledge course,Always,https://learn-trading.sensibull.com/s/mycourses
+Sensibull,Learning,Complete Option strategies list,All the stockmarket strategy,Always,https://web.sensibull.com/optionsStrategiesList
+Fisdom,Market Analysis,Monthly market analysis,Monthly blog about the market in research view,Monthly,https://www.fisdom.com/newresearch/capview/
+Fisdom,Market Analysis,Daily Pre & Post market analysis,Daily pre and post market news and views,Daily,https://www.fisdom.com/newresearch/periodic-report/
+Fisdom,Stocks Idea,Weekly stocks picking idea,Stock idea for the week,Weekly,https://www.fisdom.com/newresearch/weekly-picks/
+Fisdom,Market Analysis,Sector analysis,Sector wise weekly analysis,Weekly,https://www.fisdom.com/newresearch/technical-outlook/
+Fisdom,Economic analysis,Macro analysis,Indian macro analysis based on the weekly events,Weekly,https://www.fisdom.com/newresearch/the-signal/
+Fisdom,Mutual funds,Mutual fund industry view analysis,Mutual fund related macro and actual news,Monthly,https://www.fisdom.com/newresearch/mf-industry-factbook/
+Fisdom,Economic analysis,Macro analysis,Indian macro analysis based on the monthly events,Monthly,https://www.fisdom.com/newresearch/macroscope/
+NiftyTrader,Option Analysis,Option Chain,"Builtup, OI, COI, MaxPain, PCR, ChgPCR, Expected range",Daily,https://www.niftytrader.in/nse-option-chain/nifty
+NiftyTrader,Option Analysis,Future Chain,All future related details with compring to the spot,Daily,https://www.niftytrader.in/stock-futures/nifty
+NiftyTrader,Learning,Dictionary - Terms,All terms definitions,Any,https://www.niftytrader.in/terms
+NiftyTrader,Nifty Analysis,Index contributions list,Today's nifty movement nifty50 stokcs with points list,Daily,https://www.niftytrader.in/nifty50-contributors
+NiftyTrader,Nifty Analysis,Index AD ratio,Advance and Declined ratio of Nifty 50,Daily,https://www.niftytrader.in/advance-decline-ratio
+NiftyTrader,Nifty Analysis,FII and DII (Cash),FII - DII Cash segment analysis,Daily,https://www.niftytrader.in/fii-dii-data
+LiveMint,News,Indian Market news (Headings),Indian market news - List wise and open to read,Any,https://www.livemint.com/news/india
+LiveMint,News,World News,World market news with some unrelated market news,Any,https://www.livemint.com/news/world
+LiveMint,News,Stocks News,Market news highlights,Any,https://www.livemint.com/market/mark-to-market
+LiveMint,News,Sector News,News related to the sectors and industries,Any,https://www.livemint.com/industry
+OptionStrat,US Options,US Option analysis tool,Use this for the references,Any,https://optionstrat.com/
+OptionAlpha,Learning,Dictionaly For Optrions,All terms related to options are defined group by here,Always,https://optionalpha.com/handbook
+Opstra,Option Analysis,Future Dashboard,EOD Dashboard of the future market,Daily,https://opstra.definedge.com/futures/dashboard
+Opstra,Option Analysis,Future OI,OI analysis of the future market,Daily,https://opstra.definedge.com/futures
+Opstra,Option Analysis,Future Build up,Future builtup for stocks,Daily,https://opstra.definedge.com/futures/buildup
+Opstra,Nifty Analysis,Nifty Heatmap,Nifty 50 heat maps based on the movement,Daily,https://opstra.definedge.com/nifty-heatmap
+Opstra,Option Analysis,IV Based Option Dashboard,"Use screener for High IV, IVP of stocks",Daily,https://opstra.definedge.com/options
+Opstra,Option Analysis,IV Chart - Nifty,Nifty IV chart,Daily,https://opstra.definedge.com/ivchart
+Opstra,Results and Event,Stocks result timing (past data),Past data of individual stocks result historicaly,Any,https://opstra.definedge.com/historical-results-timings
+Opstra,Nifty Analysis,FII and DII (Cash),FII - DII Cash segment analysis,Daily,https://opstra.definedge.com/fiidii
+Opstra,Option Analysis,FII and DII (FnO positions),All participant's OI data and long percentage,Daily,https://opstra.definedge.com/fiidii/derivatives
+Sensibull,Option Analysis,Option Strikes based on the range,Auto suggestion strikes based on range and trend,Daily,https://web.sensibull.com/trade-options-strategies?tradingsymbol=NIFTY
+Sensibull,Option Analysis,Strategy Builder,Option strategy builder,Daily,https://web.sensibull.com/option-strategy-builder?instrument_symbol=NIFTY
+Sensibull,Option Analysis,Draft portfolio,Model portfolio,Daily,https://web.sensibull.com/draft-portfolios
+Sensibull,Option Analysis,Watchlist,Strike and strategy watchlist,Daily,https://web.sensibull.com/stocks-watchlist
+Sensibull,Option Analysis,Option Chain,Sensibull's option chain - change expiry date,Daily,https://web.sensibull.com/option-chain?tradingsymbol=NIFTY&expiry=2024-07-25
+Sensibull,Technical Screener,Candlestick pattern,Candlestick stock screener,Daily,https://web.sensibull.com/candlestick-patterns
+Sensibull,Market Analysis,Post market analysis,Change Date to get latest post market analysis,Daily,https://web.sensibull.com/daily-market?date=2024-07-16&lang=english
+Sensibull,Option Analysis,Open Interest,Nifty OI,Daily,https://web.sensibull.com/open-interest/oi-vs-strike?tradingsymbol=NIFTY
+Sensibull,Option Analysis,Change of Open Interest,Nifty COI,Daily,https://web.sensibull.com/open-interest/oi-change-vs-strike?tradingsymbol=NIFTY
+Sensibull,Option Analysis,OI Trend (Option OI vs Time),Nifty OI Trend,Daily,https://web.sensibull.com/open-interest/oi-vs-time?tradingsymbol=NIFTY
+Sensibull,Nifty Analysis,FII and DII (Cash),FII and DII in cash segment,Daily,https://web.sensibull.com/fii-dii-data/cash-market
+Sensibull,Nifty Analysis,FII and DII (all participant),Summary - market trend based on participant action,Daily,https://web.sensibull.com/fii-dii-data/summary
+Sensibull,Option Analysis,FII and DII (Futures and Options),Current participant status in derivative,Daily,https://web.sensibull.com/fii-dii-data/fno
+Sensibull,Calendar,Economic calendar,Indian and US economic calendar,Weekly,https://web.sensibull.com/stock-market-calendar/economic-calendar
+Sensibull,Calendar,Stock Results Calendar,Upcoming stocks results,Weekly,https://web.sensibull.com/stock-market-calendar/stock-results-calendar
+Sensibull,Calendar,Holiday Calendar,Market holidays,Weekly,https://web.sensibull.com/stock-market-calendar/holiday-calendar
+Sensibull,Nifty Analysis,IV Chart - Historical,Historical IV chart of the nifty,Daily,https://web.sensibull.com/implied-volatility-chart
+Sensibull,Nifty Analysis,Nifty Heatmap,Heatmap of all stocks of nifty,Daily,https://web.sensibull.com/options-screener?view=heatmap
+Fyers,Platform Updates,Fyers platform updates,Fyers Platfrom updates blog,Monthly,https://fyers.in/notice-board/?announcementType=Innovations
+Zerodha,Trading tools,Zerodha - Cash and Non Cash,.,Any,https://zerodha.com/approved-securities/#tab-cash_mf
+Sensibull,Platform Updates,Sensibull platform updates,Sensibull platform updatesblog,Monthly,https://blog.sensibull.com/tag/whats-new-in-sensibull/
+Zerodha,Platform Updates,Kite new features,Zerodha kite platform update,Monthly,https://zerodha.com/z-connect/
+Zerodha,Blog,Market updates,Zerodha's blog about market,Weekly,https://zerodha.com/z-connect/updates
+YTC_Post,Blog,ITJagan,PnL of IT Jagan,Daily,https://www.youtube.com/@CapitalZone/community
+YTC_Post,Blog,DD,PnL of IT DD,Daily,https://www.youtube.com/@ddnifty/community
+Trendlyne,Results and Event,Recent Result Summary,.,Weekly,https://trendlyne.com/rapid-results/all/
+Trendlyne,Nifty Analysis,FII and DII (Cash),.,Daily,https://trendlyne.com/macro-data/fii-dii/latest/snapshot-pastmonth/
+Trendlyne,Stocks Idea,Stocks Ideas,.,Weekly,https://trendlyne.com/news-by-trendlyne/
+Trendlyne,Market Analysis,Market overview - EOD,.,Daily,https://trendlyne.com/futures-options/derivative/26-sep-2024-near/1887/NIFTY/nifty-50/
+Trendlyne,Market Analysis,Nifty 50 Overview,.,Daily,https://trendlyne.com/equity/1887/NIFTY/nifty-50/
+Trendlyne,Option Analysis,FII and DII (Futures and Options),.,Daily,https://trendlyne.com/futures-options/reports/participants-wise-oi/
+Trendlyne,Mutual funds,Mutual funds with Ratings,.,Monthly,https://trendlyne.com/mutual-fund/mf-all/?category=Multi+%26+Flexi-Cap&plan=Regular&plan=Direct
+Trendlyne,Screeners & idea ,Screener & Idea,.,Weekly,https://trendlyne.com/stock-screeners/by-type/
+Trendlyne,Technical Screener,Techical Screeners (EG),.,Weekly,https://trendlyne.com/fundamentals/all-in-one-screener/intraday/near-lows/10-years/
+Trendlyne,Market Analysis,Sector analysis,.,Weekly,https://trendlyne.com/equity/sector-industry-analysis/day/
+Trendlyne,Research Report,Research Reports,.,Weekly,https://trendlyne.com/research-reports/all/
+NSE,Option Analysis,Option Chain,.,Daily,https://www.nseindia.com/option-chain
+NSE,Option Analysis,Bhavcopy - Report,.,Any,https://www.nseindia.com/all-reports
+NSE,Market Analysis,Pre open market data,.,Any,https://www.nseindia.com/market-data/pre-open-market-cm-and-emerge-market
+NSE,Market Analysis,Market indices,.,Daily,https://www.nseindia.com/market-data/live-market-indices
+NSE,Market Analysis,Indices Analysis,.,Weekly,https://www.niftyindices.com/
+NSE,Market Analysis,OI Spurts,.,Daily,https://www.nseindia.com/market-data/oi-spurts
+ChartInk,Technical Screener,Screeners based on technical data,Technical Screener,Any,https://chartink.com/screeners
+ChartInk,Technical Dashboard,Dashboard based on technincal data,Technical Dashboard,Any,https://chartink.com/atlas
+Zerodha,QnA,TradingQnA,Post our sharemarket doubts here,Always,https://tradingqna.com/
+Zerodha,Market Dashboard,Market overview - EOD,Highlevel market overview,Daily,https://stocks.zerodha.com/
+TradeCatcher,Historical data,Options historical data,Discontinued,Any,https://tradecatcher.blogspot.com/p/options-ieod.html
+TradeCatcher,Historical data,Nifty weekly historical data,Discontinued,Any,https://tradecatcher.blogspot.com/p/nifty-wee.html
+Investing.in,Historical data,All stocks historical data,All stoks and index historical data,Any,https://in.investing.com/etfs/axis-nifty-ns-historical-data
+Flying calls,Market Analysis,Daily Pre market analysis,Daily pre market news and views,Daily,https://www.flyingcalls.com/
+Chittorgarh,IPO,A-Z ipo analysis,All about the IPO,Any,https://www.chittorgarh.com/
+Zerodha,IPO,Upcoming IPO details,Current and upcoming ipo details,Any,https://zerodha.com/ipo/
+IpoWatch,IPO,Grey market premium,Grey market premium of the coming IPO,Any,https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/
+Screener.in,Screeners & idea ,Screener & Idea,Screener,Weekly,https://www.screener.in/explore/
+Screener.in,Investment,Investment watchlist,My watchlist,Weekly,https://www.screener.in/watchlist/663569/
+Screener.in,Investment,Investment stocks major news,News about the stocks,Weekly,https://www.screener.in/
+Screener.in,Screeners & idea ,Popular screener - idea ,Ideas,Weekly,https://www.screener.in/screens/
+Finvezto,Weekly analysis,Weekly market analysis,Weekly analysis,Weekly,https://compass.finvezto.com/s/weekly-analysis
+Finvezto,Results and Event,Results reaction,Stocks reaction after the results,Any,https://compass.finvezto.com/s/consistent-performers
+Finvezto,Premarket report,Daily Pre market analysis,.,Daily,https://compass.finvezto.com/s/dalal-street-breakfast
+Univest,premarket report:,Daily Pre market analysis,.,Daily,https://univest.in/digest/MORNING_DIGEST
+Univest,postmarket report,Daily Post market analysis,.,Daily,https://univest.in/digest/POST_MARKET_SUMMARY
+Univest,Weekly analysis,Weekly market analysis,Weekly analysis,Weekly,https://univest.in/blogs
+ValueResearch,Screeners & idea ,Screener & Idea,Screener,Weekly,https://www.valueresearchonline.com/stocks-screener/
+Tijori,Investment,Investment Portfoliio,Investment Portfolio dashboard,Weekly,https://www.tijorifinance.com/in/portfolio/
+Tijori,Investment,Portfolio timeline,Invested stocks timeline,Weekly,https://www.tijorifinance.com/in/timeline
+Tijori,Investment,Investment watchlist,.,Weekly,https://www.tijorifinance.com/watchlist?page=1
+Tijori,Market Analysis,Economic - raw material ,Analysis,Weekly,https://www.tijorifinance.com/raw-materials
+Tijori,Market Analysis,Sector analysis,Index far from the ATH ,Daily,https://www.tijorifinance.com/in/markets
+Tijori,Economic analysis,Economic - Macro Indigators,Macro analysis,Monthly,https://www.tijorifinance.com/macro
+Tijori,Screeners & Idea,Screener & Idea,Screeners,Weekly,https://www.tijorifinance.com/filter/popular-queries/
+Tijori,Screeners & Idea,Screener,Pure screener,Weekly,https://www.tijorifinance.com/filter/
+Kite,Trading tools,Positions,.,Daily,https://kite.zerodha.com/positions
+Kite,Trading tools,Orders,.,Daily,https://kite.zerodha.com/orders
+Kite,Trading tools,Holdings,.,Daily,https://kite.zerodha.com/holdings
+Kite,Trading tools,Funds,.,Weekly,https://kite.zerodha.com/funds
+Kite,Trading tools,Baskets,.,Daily,https://kite.zerodha.com/orders/baskets
+Kite,Trading tools,Alerts,.,Daily,https://kite.zerodha.com/orders/alerts
+ZerodhaCoin,Trading tools,MF Dashboard,.,Weekly,https://coin.zerodha.com/dashboard/mf/portfolio
+ZerodhaCoin,Trading tools,Explore MF,.,Weekly,https://coin.zerodha.com/dashboard/mf/invest
+Kite,Trading tools,Console Dashboard,.,Weekly,https://console.zerodha.com/dashboard
+Kite,Trading tools,Console Holdings,.,Weekly,https://console.zerodha.com/portfolio/holdings
+Kite,Trading tools,Console PnL,.,Weekly,https://console.zerodha.com/reports/pnl
+Fyers,Trading tools,Fyers Charts,Charts and trading terminal,Daily,https://trade.fyers.in/
+Fyers,Stock analysis,Overview of the stocks,.,Any,https://app.fyers.in/symbol/NSE:ASIANPAINT-EQ
+Fyers,Market Analysis,Market Dashboard,.,Daily,https://app.fyers.in/
+Fyers,Blog,Notice Board,.,Monthly,https://fyers.in/notice-board/
+Fyers,Option Analysis,All in one Option chain,.,Daily,https://fyers.gocharting.com/optionsdesk?underlying=NSE:NIFTY
+Fyers-InstaOptions,Option Analysis,Option Chain,"PCR Ratio chart, Option Charts",Daily,https://instaoptions.fyers.in
+Fyers-InstaOptions,Option Analysis,Historical Option Chain,Historical Option Chain data (helpful),Weekly,https://instaoptions.fyers.in
+Fyers-InstaOptions,Option Analysis,Historical OI and COI,Historical Option OI and COI data (helpful),Weekly,https://instaoptions.fyers.in
+Fyers-InstaOptions,Option Analysis,"Last 15min OC, OI, COI",How maret reacted in last few minutes,Weekly,https://instaoptions.fyers.in
+Fyers-InstaOptions,Option Analysis,Positions PL history in TVC,How our PL moves based on the nifty,Weekly,https://instaoptions.fyers.in
+Fyers-InstaOptions,Option Analysis,Backtest Strategy (Options),Do the backtesting,Monthly,https://instaoptions.fyers.in
+MarketSmith,Market Analysis,Daily Pre market analysis,Daily pre market news and views,Daily,https://marketsmithindia.com/mstool/marketoutlook.jsp
+MarketSmith,Market Analysis,Yearly analysis report,.,Yearly,https://marketsmithindia.com/yearbooks
+Kite,Investment,Investment watchlist,Daily track and update the notes in wishlist to get chance,Daily,https://kite.zerodha.com
+Zerodha,Market Analysis,Dashboard and Heatmaps (all index),All index's stock analysis,Daily,https://technicals.zerodha.com/dashboard
+DrVijayMalik,Learning,Sector fundamental analysis,Sector wise weekly analysis,Any,https://www.drvijaymalik.com/all-articles/
+DrVijayMalik,Learning,Best website to learn market (Blogs),Best blog and analysis for all necessary things in SM,Always,https://www.drvijaymalik.com/all-articles/
+Screener.in,Results and Event,Upcoming result events on NSE,.,Weekly,https://www.screener.in/upcoming-results/?sme=nse
+Screener.in,Results and Event,Announcement and documents - papers,All papers of all SM companies,Weekly,https://www.screener.in/filings/
+Streak,Technical Screener,Candlestick screener,Candlestick screener and filter,Weekly,https://www.streak.tech/scanners
+Screener.in,Results and Event,Latest Stocks result details,How is the perfomance of the stock after result,Weekly,https://www.screener.in/results/latest/?sme=nse
+TickerTape,MMI,Market Mood Index,To find undervalue and overvalue,Daily,https://www.tickertape.in/market-mood-index
+Edition,MMI,US MMI index,To find undervalue and overvalue,Daily,https://edition.cnn.com/markets/fear-and-greed
+Macromicro,MMI,Historical US MMI Index,To find undervalue and overvalue,Weekly,https://en.macromicro.me/charts/50108/cnn-fear-and-greed
+Macromicro,Economic analysis,All macro & micro indigators,It has all the necessary indigator (US),Weekly,https://en.macromicro.me/collections/34/us-stock-relative/444/us-mm-gspc
+Finshots,Blog,Daily Magazine,Daily blogs about somethings,Weekly,https://finshots.in/
+TradingTick,Option Analysis,Call OI vs Put OI,.,Daily,https://tradingtick.com/options/callvsput
+TradingTick,Option Analysis,OI Analysis,.,Daily,https://tradingtick.com/options/oidata
+TradingTick,Option Analysis,PCR Ratio,.,Daily,https://tradingtick.com/options/putcallratio
+TradingTick,Option Analysis,ATM Premium,.,Daily,https://tradingtick.com/options/atmpremium
+TradingTick,Option Analysis,IV Chart,.,Daily,https://tradingtick.com/options/implied-volatility
+TradingTick,Option Analysis,Premium Decay,.,Daily,https://tradingtick.com/options/premiumdecay
+GoCharting,Chart,Charting website,Alternate Chartings,Always,https://gocharting.com/
+MyFno,Market Analysis,Best market Dashboard,EOD best data - dashboard,Daily,https://myfno.com/#wall
+Fyers,Chart,Fyeres Charting,TVC - But need to login everytime,Always,https://trade.fyers.in/
+TradingView,Chart,TVC - Charting,Portable chartings - Premium,Always,https://www.tradingview.com/chart/yPeTUFAn/?symbol=NSE%3ANIFTY
+Investing.in,Chart,Free Chart,Free charting tool,Always,https://in.investing.com/indices/s-p-cnx-nifty-chart
+TradingEconomics,Economic analysis,All Indian Indigators,.,Monthly,https://tradingeconomics.com/india/indicators
+TradingEconomics,Economic analysis,India economy forecast,.,Monthly,https://tradingeconomics.com/india/forecast
+TradingEconomics,Economic analysis,All economic indigator,.,Monthly,https://tradingeconomics.com/indicators
+MarketWatch,Economic analysis,US Treasure,.,Monthly,https://www.marketwatch.com/investing/bond/tmubmusd10y?countrycode=bx
+Investing.in,Economic analysis,US 10 Years Bond yield,.,Monthly,https://in.investing.com/rates-bonds/u.s.-10-year-bond-yield
+FunData,Investment,Heatmap - PE Ratio,.,Monthly,https://www.fundata.in/PERatioHeatmap.html
+FunData,Investment,HeatMap - Sector PE,.,Monthly,https://www.fundata.in/PERatioCompanyVsSectorHeatmap.html
+FunData,Investment,HeatMap - All Fundamental ,.,Monthly,https://www.fundata.in/Explore.html
+MarketMojo,Investment,Portfolio,,Weekly,https://www.marketsmojo.com/portfolio-plus/stock-investments
+MarketMojo,Results and Event,Result's Quantilative anlaysis dashboard,Latest Stocks result in numbers,Any,https://www.marketsmojo.com/mojopro/result-corner-landing
+MarketMojo,Stocks Idea,Stocks Ideas,.,Weekly,https://www.marketsmojo.com/news/stock-recommendation
+MarketMojo,Results and Event,Result's Qualitative anlaysis,Latest Stocks results in content,Any,https://www.marketsmojo.com/news/result-analysis
+MarketMojo,Blog,Blogs,.,Monthly,https://www.marketsmojo.com/blog/mojo-exclusive
+ET,News,International News,.,Any,https://economictimes.indiatimes.com/news/international
+ET,News,Industry and sector news,.,Any,https://economictimes.indiatimes.com/industry
+ET,Market Dashboard,Market Dashboard,.,Daily,https://economictimes.indiatimes.com/markets/live-coverage
+ET,Stocks Idea,Investment ideas,.,Weekly,https://economictimes.indiatimes.com/prime/investment-ideas
+ET,Screeners & Idea,Fundamental Screeners (Eg),Explore all in this list,Weekly,https://economictimes.indiatimes.com/markets/stock-screener/increase-in-mf-shareholding/screens/scrid-8647
+ET,Screeners & Idea,Fundamental Screeners,Explore all in this list,Weekly,https://economictimes.indiatimes.com/markets/stock-screener
+ET,Technical Screener,Techical Screeners (EG),Explore all in this list,Weekly,https://economictimes.indiatimes.com/stocks/marketstats-technicals/golden-cross
+ET,Market Dashboard,Indices Analysis,"Daily, Weekly, Monthly indices status",Daily,https://economictimes.indiatimes.com/markets/indices
+ET,Market Dashboard,EOD data analysis,"Daily, Weekly, Monthly indices status",Daily,https://economictimes.indiatimes.com/stocks/marketstats/top-gainers/nse-nifty-50
+ET,Market Dashboard,EOD data analysis (Eg: Near 52w Low),.,Daily,https://economictimes.indiatimes.com/stocks/marketstats?type=near-52-week-low&filter=2369
+Investing.in,Calendar,Economical calendar,.,Weekly,https://in.investing.com/economic-calendar/
+Investing.in,Calendar,Earning calendar,.,Weekly,https://in.investing.com/earnings-calendar/
+Investing.in,Calendar,Dividident Calendar,.,Weekly,https://in.investing.com/dividends-calendar/
+Investing.in,Calendar,Stocks split calendar,.,Weekly,https://in.investing.com/stock-split-calendar/
+Investing.in,Calendar,IPO Calendar,.,Weekly,https://in.investing.com/ipo-calendar/
+Investing.in,News,Daily Popular News,.,Any,https://in.investing.com/news/most-popular-news
+Investing.in,Stocks Idea,Analystic's view,.,Daily,https://in.investing.com/analysis/most-popular-analysis
+Investing.in,Market Analysis,Indian Stocks ADR,.,Daily,https://in.investing.com/equities/india-adrs
